@@ -4,8 +4,3 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-```java
-String name = "Joan";
-String info = STR."My name is \{name}";
-assert info.equals("My name is Joan");   // true
-```
