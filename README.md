@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ```java
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+String name = "Joan";
+String info = STR."My name is \{name}";
+assert info.equals("My name is Joan");   // true
 ```
